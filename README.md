@@ -7,7 +7,7 @@ The PC Blocker Plugin is a WordPress plugin that allows you to block PC users fr
 
 ## Installation
 
-1. Download the plugin zip file from the [releases](https://github.com/your-username/pc-blocker-plugin/releases) page.
+1. Download the plugin zip file from the [[releases](https://github.com/your-username/pc-blocker-plugin/releases)](https://github.com/nityam2007/wordpress-pc-blocker/releases/tag/v1.0.0) page.
 2. In your WordPress admin panel, go to "Plugins" -> "Add New".
 3. Click on the "Upload Plugin" button at the top of the page.
 4. Choose the plugin zip file you downloaded and click "Install Now".
